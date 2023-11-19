@@ -1,6 +1,7 @@
 # Python-project
 C2C project written in Python
 # Command and Control Server
+![image](https://github.com/nemo0187/Python-project/assets/101752155/7cf55126-eae2-4a76-a2bc-66672f9a5f27)
 
 ## Overview
 
