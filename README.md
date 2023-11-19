@@ -1,8 +1,6 @@
 # Command and Control Server
 
 ## Overview
-![Screenshot 2023-11-19 193045](https://github.com/nemo0187/Python-project/assets/101752155/e5877544-c2e4-4253-a3a2-d5b8504d87f5)
-![image](https://github.com/nemo0187/Python-project/assets/101752155/7c9a4689-361a-4782-9dcf-e8275b4145ee)
 
 
 This project consists of two Python scripts, `server.py` and `client.py`, implementing a basic command and control (C2) server and agent system. The server manages multiple agents on different ports, allowing remote command execution and file transfer.
