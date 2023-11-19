@@ -1,7 +1,4 @@
-# Command&Control Project
-C2C project written in Python
 # Command and Control Server
-![image](https://github.com/nemo0187/Python-project/assets/101752155/7cf55126-eae2-4a76-a2bc-66672f9a5f27)
 
 ## Overview
 
@@ -49,8 +46,12 @@ Run the client using `python3 client.py -ip <server_ip>`.
 ## Dependencies
 
 - Python 3.x
-- Required Python modules: `socket`, `threading`, `time`, `sys`, `queue`, `os`, `pyfiglet`, `subprocess`, `random`, `argparse`.
+- Required Python modules: `socket`, `threading`, `time`, `sys`, `queue`, `os`, `subprocess`, `random`, `argparse`.
+- External library: `pyfiglet==0.8.post1`
 
-## Disclaimer
+## Installation
 
-This project is for educational purposes only. Misuse of this software for malicious intent is strictly prohibited.
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
